@@ -365,9 +365,7 @@
                 <a href="mailto:chamireda42@gmail.com" class="btn">📧 M'envoyer un email</a>
                 <a href="tel:0763982405" class="btn">📞 07 63 98 24 05</a>
             </div>
-            <div style="text-align: center; margin-top: 2rem; color: #666;">
-                <p><strong>Email :</strong> chamireda42@gmail.com</p>
-                <p><strong>Téléphone :</strong> 07 63 98 24 05</p>
+          
             </div>
         </div>
     </section>
