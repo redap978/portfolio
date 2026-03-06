@@ -364,12 +364,7 @@
             <div style="text-align: center; display: flex; flex-direction: column; gap: 1.5rem; align-items: center;">
                 <a href="mailto:chamireda42@gmail.com" class="btn">📧 M'envoyer un email</a>
                 <a href="tel:0763982405" class="btn">📞 07 63 98 24 05</a>
-    </section>
-
-    <footer>
-        <p>&copy; 2025 Mon Portfolio. Tous droits réservés.</p>
-    </footer>
-
+   
     <script>
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
